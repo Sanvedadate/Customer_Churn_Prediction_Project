@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:Path};C:\\Program Files\\nodejs"
+  },
+  "python.terminal.activateEnvironment": true
+}
